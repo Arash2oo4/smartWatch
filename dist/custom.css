@@ -1,0 +1,20 @@
+.owl-dots {
+  text-align: center;
+  padding-top: 15px;
+}
+.owl-dots button.owl-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  background: #8B8E99;
+  margin: 0 3px;
+}
+.owl-dots button.owl-dot.active {
+  background-color: #3858D6;
+  width: 13px;
+  height: 13px;
+}
+.owl-dots button.owl-dot:focus {
+  outline: none;
+}
